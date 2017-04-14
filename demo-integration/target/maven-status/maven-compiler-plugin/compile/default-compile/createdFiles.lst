@@ -1,0 +1,12 @@
+com\wuji\demo\integration\service\impl\UserServiceImpl.class
+com\wuji\demo\integration\controller\PageController.class
+com\wuji\demo\integration\model\User.class
+com\wuji\demo\integration\dao\impl\BaseDaoImpl.class
+com\wuji\demo\integration\dao\UserDao.class
+com\wuji\demo\integration\dao\impl\UserDaoImpl.class
+com\wuji\demo\integration\model\Pager.class
+com\wuji\demo\integration\controller\UserController.class
+com\wuji\demo\integration\model\SystemContext.class
+com\wuji\demo\integration\dao\BaseDao.class
+com\wuji\demo\integration\service\UserService.class
+com\wuji\demo\integration\filter\SystemContextFilter.class
